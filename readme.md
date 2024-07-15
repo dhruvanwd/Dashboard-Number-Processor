@@ -1,6 +1,6 @@
 # Node.js Dashboard Number Processor 🚀
 
-# This Node.js project processes a number inputted by a client through a dashboard. The number, ranging from 1 to 25, is multiplied by 7. Based on the resulting value, the number is stored in one of four files: A, B, C, or D. Once each file has one stored number, no new numbers can be entered, and the process completes. The application also lists all numbers saved in the four files.
+###### This Node.js project processes a number inputted by a client through a dashboard. The number, ranging from 1 to 25, is multiplied by 7. Based on the resulting value, the number is stored in one of four files: A, B, C, or D. Once each file has one stored number, no new numbers can be entered, and the process completes. The application also lists all numbers saved in the four files.
 
 ## Table of Contents
 
